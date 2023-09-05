@@ -1,0 +1,14 @@
+<html>
+<head><title>Teaching</title></head>
+<body>
+    <h2>Teaching</h2>
+    <p>My teaching approach is deeply committed to dismantling the phenomenon of colonialism within educational settings. This mission extends beyond recognizing the impacts of colonialism on students’ learning; it involves actively challenging the pervasive processes of alienation that students often interface with in their educational journeys. In a variety of instructional settings, I incorporate the principles of Red Pedagogy to create more inclusive and equitable learning environments for all learners. Red Pedagogy is a critical pedagogical framework developed by Quechua scholar Sandy Grande, that seeks to decolonize education by centering Indigenous knowledge and ways of knowing. This approach provides a pathway to the prevailing Western-centric educational paradigm, but also promote social justice, anti-colonialist and anti-racist learning.
+    </p>
+    <p>I posses a mastery in delivering instruction across diverse settings—ranging from formal university classrooms and community workshops to online platforms. My instructional abilities span a broad spectrum of disciplines, including Social Work, Ethnic Studies, and Psychology. In community settings, I have facilitated health promotion education, cultural activities, and teach-ins. Within the academic realm, my roles have encompassed positions such as Graduate Student Instructor (GSI) and Associate Instructor. I have been awarded two separate university-level distinctions for my innovate teaching approach and ability promote student learning. These include the Outstanding GSI Award in 2022, and the Teaching Effectiveness Award in 2023.
+    </p>
+    <p>To learn more about my teaching approach, please review my essay titled “Towards a Red Pedagogy for Social Work Education" as part of the Teaching Effectiveness Award at <a href="https://gsi.berkeley.edu/sierra-2023/">https://gsi.berkeley.edu/sierra-2023/</a>. <a href='Towards_a_Red_Pedagogy_for_Social_Work_Education.pdf'>[PDF]</a>
+    </p>
+
+
+</body>
+</html>

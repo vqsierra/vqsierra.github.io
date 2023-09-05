@@ -1,0 +1,38 @@
+---
+title: "Valentín Quiroz Sierra"
+image: vqs.jpg
+about:
+  template: trestles
+  links:
+    - text: Twitter/X
+      icon: twitter
+      url: "https://twitter.com/vqsierra_"
+    - text: GitHub
+      icon: github
+      url: "https://github.com/vqsierra"
+    - text: Email
+      url: "mailto:vqsierra@berkeley.edu"
+    - text: CV
+      url: "vsierra_cv.pdf"
+comments: false
+---
+::: {.column-page}
+
+## Biography
+
+Val is dedicated to promoting the holistic wellbeing of Native American and Indigenous young people. Val was a Point Foundation Scholar from 2013 - 2017 while attending the University of California, Davis. Val graduated, <i>with highest honors</i>, earning a B.A. in Native American Studies. Val was involved as a campus organizer helping to coordinate the UC Davis Powwow, Native American Culture Days, and the opening of the Native American Academic Student Success Center. In 2019, Val was awarded The Brandon Harrison Award for Youth Leadership and Youth Advocacy by the Sierra Health Foundation for their community work. 
+
+Val is currently a Doctoral Candidate at the University of California, Berkeley School of Social Welfare, where they also earned a Master of Social Welfare degree. In addition to being honored as a Chancellor’s Fellow, Val has been named a Human Rights Fellow by the Berkeley School of Law and a Computational Social Science Fellow by the Berkeley Institute for Data Science. Val’s clinical and research agendas focus on eliminating mental health disparities, particularly suicide and depression, for urban Indigenous young people through culturally grounded practices and interventions. Val is an Associate Clinical Social Worker and an active member of the California Yoeme (Yaqui) Indian community.
+
+<p></p>
+
+## Selected Projects
+
+[HOPES Study](http://bit.ly/hopesstudy) | **Helping Our People End Suicide Study** - A community-based research project in collaboration with the Sacramento Native American Health Center to develop a culture-based suicide risk assessment tool. 
+
+[IWFP](https://osf.io/4dpwt/) | **Indigenous Wholistic Factors Project** - An empirical research study utilizing a computational, algorithmic approach to identify which combination of wholistic factors can predict suicidal ideation among Native American high schoolers in California.
+
+
+:::
+
+

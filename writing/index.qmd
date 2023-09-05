@@ -1,0 +1,20 @@
+<html>
+<head><title>Writing</title></head>
+<body>
+    <h2>Writing</h2>
+    Click "[PDF]" to download each paper.
+    <hr>
+    <h3>Journal Articles</h3>   
+    <p><strong>Sierra, V. Q.</strong> (2023). Predicting Suicidal Ideation among Native American High Schoolers in California. UC Berkeley: Institute for the Study of Societal Issues. Retrieved from <a href="https://escholarship.org/uc/item/5z1751rw">https://escholarship.org/uc/item/5z1751rw</a> <a href='https://escholarship.org/content/qt5z1751rw/qt5z1751rw.pdf?t=s05yjb'>[PDF]</a>
+    </p>
+    <p>Figueroa, C.A., Hernandez-Ramos, R., Boone, C.E., Gómez-Pathak, L., Yip, V., Luo, T., <strong>Sierra, V.</strong>, Xu, J., Chakraborty, B., Darrow, S., & Aguilera, A. (2021). A Text Messaging Intervention for Coping With Social Distancing During COVID-19 (StayWell at Home): Protocol for a Randomized Controlled Trial. <i>JMIR Research Protocols</i>, 10(1), e23592. <a href="https://doi.org/10.2196/23592">https://doi.org/10.2196/23592</a> <a href='https://www.researchprotocols.org/2021/1/e23592/PDF'>[PDF]</a>
+    </p>
+    <h3>Book Chapters</h3>
+    <p>Mallon, G. P., Karnoski, R., Stabbe, O., Waller, L., & <strong>Sierra, V.</strong> (2021). Social Work Practice with Trans & Gender Expansive Youth in Child Welfare Systems. In J. Shelton & G. P. Mallon (Eds.), Social Work Practice with Transgender and Gender Expansive Youth (3rd Edition). Routledge. <a href='Mallon_et_al_ 2021_Social_Work_Practice.pdf'>[PDF]</a>
+    </p>
+    <h3>Opinion Editorials</h3>
+    <p>Cesspooch, A., Kewenvoyouma, A., Sanchez, P., & <strong>Sierra, V.</strong> (2020). Native Student Organizations Want to Un-Name Kroeber Hall, are Frustrated with Faculty Pushback. <i>The Daily Californian</i>. <a href="https://www.dailycal.org/2020/08/25/native-student-organizations-want-to-un-name-kroeber-hall-are-frustrated-with-faculty-pushback/">https://www.dailycal.org/2020/08/25/native-student-organizations-want-to-un-name-kroeber-hall-are-frustrated-with-faculty-pushback/</a> <a href='Native_student_organizations_want_to_un_name_Kroeber_Hall.pdf'>[PDF]</a>
+    </p>
+    
+</body>
+</html>
