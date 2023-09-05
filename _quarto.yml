@@ -1,0 +1,31 @@
+project:
+  type: website
+  resources:
+    - resume.pdf
+    - vsierra_cv.pdf
+
+website:
+  title: "Valentín Quiroz Sierra"
+  site-url: https://vqsierra.io
+  description: "Yoeme Social Worker & Doctoral Candidate at Berkeley Social Welfare"
+  open-graph:
+    locale: en_US
+  twitter-card:
+    creator: "@vqsierra_"
+  comments:
+    utterances:
+      repo: vqsierra/vqsierra
+  navbar:
+    right:
+      - text: "Home"
+        href: index.html
+      - text: "Writing"
+        href: writing
+      - text: "Teaching"
+        href: teaching
+  page-footer:
+    left: "© Copyright 2023 Valentín Quiroz Sierra. Except where otherwise noted, all text and images licensed CC-BY-NC 4.0."
+format:
+  html:
+    theme: [sandstone, _variables.scss]
+    css: styles.css
