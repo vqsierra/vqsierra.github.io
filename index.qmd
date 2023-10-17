@@ -7,6 +7,9 @@ about:
     - text: Twitter/X
       icon: twitter
       url: "https://twitter.com/vqsierra_"
+    - text: TikTok
+      icon: tiktok
+      url: "https://www.tiktok.com/@queerndn"
     - text: GitHub
       icon: github
       url: "https://github.com/vqsierra"
