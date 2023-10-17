@@ -7,13 +7,16 @@ about:
     - text: Twitter/X
       icon: twitter
       url: "https://twitter.com/vqsierra_"
+    - text: TikTok
+      icon: tiktok
+      url: "https://www.tiktok.com/@queerndn"
     - text: GitHub
       icon: github
       url: "https://github.com/vqsierra"
     - text: Email
       url: "mailto:vqsierra@berkeley.edu"
     - text: CV
-      url: "vsierra_cv.pdf"
+      url: "vsierra_cv10.23.pdf"
 comments: false
 ---
 ::: {.column-page}

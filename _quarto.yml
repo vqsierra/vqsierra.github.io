@@ -3,7 +3,7 @@ project:
   output-dir: docs
   resources:
     - resume.pdf
-    - vsierra_cv.pdf
+    - vsierra_cv10.23.pdf
 
 website:
   title: "Valentín Quiroz Sierra"
@@ -25,7 +25,7 @@ website:
       - text: "Teaching"
         href: teaching
   page-footer:
-    left: "© Copyright 2023 Valentín Quiroz Sierra. Except where otherwise noted, all text and images licensed CC-BY-NC 4.0."
+    center: "© Copyright 2023 Valentín Quiroz Sierra. Except where otherwise noted, all text and images licensed CC-BY-NC 4.0."
 format:
   html:
     theme: [sandstone, _variables.scss]
