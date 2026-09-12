@@ -1,20 +1,17 @@
 ---
-title: "Valentín Quiroz Sierra"
-image: vqs.jpg
+title: "Valentín Quiroz de la Sierra"
+image: vqs.jpeg
 about:
   template: trestles
   links:
-    - text: Twitter/X
-      icon: twitter
-      url: "https://twitter.com/vqsierra_"
     - text: TikTok
       icon: tiktok
-      url: "https://www.tiktok.com/@queerndn"
+      url: "https://www.tiktok.com/@dr.delasierra"
     - text: GitHub
       icon: github
       url: "https://github.com/vqsierra"
     - text: Email
-      url: "mailto:vqsierra@berkeley.edu"
+      url: "mailto:vsierra4@jh.edu"
     - text: CV
       url: "vsierra_cv10.23.pdf"
 comments: false
@@ -23,9 +20,9 @@ comments: false
 
 ## Biography
 
-Val is dedicated to promoting the holistic wellbeing of Native American and Indigenous young people. Val was a Point Foundation Scholar from 2013 - 2017 while attending the University of California, Davis. Val graduated, <i>with highest honors</i>, earning a B.A. in Native American Studies. Val was involved as a campus organizer helping to coordinate the UC Davis Powwow, Native American Culture Days, and the opening of the Native American Academic Student Success Center. In 2019, Val was awarded The Brandon Harrison Award for Youth Leadership and Youth Advocacy by the Sierra Health Foundation for their community work. 
+Dr. Val is dedicated to promoting the holistic wellbeing of Indigenous young people. Dr. Val was a Point Foundation Scholar from 2013 - 2017 while attending the University of California, Davis. Dr. Val graduated, <i>with highest honors</i>, earning a B.A. in Native American Studies. Dr. Val was involved as a campus organizer helping to coordinate the UC Davis Powwow, Native American Culture Days, and the opening of the Native American Academic Student Success Center. In 2019, Val was awarded The Brandon Harrison Award for Youth Leadership and Youth Advocacy by the Sierra Health Foundation for his community work. 
 
-Val is currently a Doctoral Candidate at the University of California, Berkeley School of Social Welfare, where they also earned a Master of Social Welfare degree. In addition to being honored as a Chancellor’s Fellow, Val has been named a Human Rights Fellow by the Berkeley School of Law and a Computational Social Science Fellow by the Berkeley Institute for Data Science. Val’s clinical and research agendas focus on eliminating mental health disparities, particularly suicide and depression, for urban Indigenous young people through culturally grounded practices and interventions. Val is an Associate Clinical Social Worker and an active member of the California Yoeme (Yaqui) Indian community.
+Dr. Val is currently a Postdoctoral Fellow at the Johns Hopkins Center for Indigenous Health. Dr. Val earned a Ph.D. in Social Welfare from the University of California, Berkeley School of Social Welfare, where he also earned a Master of Social Welfare degree. In addition to being honored as a Chancellor’s Fellow, Val has been named a Human Rights Fellow by the Berkeley School of Law and a Computational Social Science Fellow by the Berkeley Institute for Data Science. Val’s clinical and research agendas focus on eliminating mental health disparities, particularly suicide and depression, for urban Indigenous young people through culturally grounded practices and interventions. Val is an Associate Clinical Social Worker and an active member of the California Yoeme (Yaqui) Indian community.
 
 <p></p>
 
