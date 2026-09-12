@@ -1,5 +1,5 @@
 # Personal website
-
+**Note to self from last run/troubleshooting**
 This site uses Quarto. Edit `index.qmd`, `teaching/index.qmd`,
 `writing/index.qmd`, and `_quarto.yml`, then run:
 
