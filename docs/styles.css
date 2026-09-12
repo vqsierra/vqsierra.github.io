@@ -1,1 +1,27 @@
-/* css styles */
+.field-carousel { margin: 2rem 0; }
+.field-slide[hidden], .field-controls[hidden] { display: none; }
+.field-slide figure { margin: 0; }
+.field-placeholder {
+  min-height: 320px;
+  aspect-ratio: 3 / 2;
+  background: #eeebe4;
+  color: #363b3e;
+  border: 1px solid #d2cec4;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem;
+  text-align: center;
+}
+.field-placeholder span { font-size: .8rem; letter-spacing: .15em; }
+.field-placeholder strong { font-size: clamp(1.6rem, 5vw, 2.7rem); margin: 1rem 0; }
+.field-placeholder p { margin: 0; }
+.field-slide img { width: 100%; max-height: 650px; object-fit: contain; border-radius: 8px; background: #eeebe4; }
+.field-slide figcaption { padding: 1rem 0; }
+.field-controls { display: flex; align-items: center; justify-content: space-between; gap: 1rem; }
+.field-controls button { border: 1px solid #777; border-radius: 4px; background: white; color: #363b3e; padding: .6rem .85rem; }
+.field-controls button:hover { background: #eeebe4; }
+.field-controls button:focus-visible, .field-carousel:focus-visible { outline: 3px solid #54724a; outline-offset: 4px; }
+@media (max-width: 480px) { .field-placeholder { min-height: 260px; padding: 1rem; } }
