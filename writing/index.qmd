@@ -1,20 +1,30 @@
-<html>
-<head><title>Writing</title></head>
-<body>
-    <h2>Writing</h2>
-    Click "[PDF]" to download each paper.
-    <hr>
-    <h3>Journal Articles</h3>   
-    <p><strong>Sierra, V. Q.</strong> (2023). Predicting Suicidal Ideation among Native American High Schoolers in California. UC Berkeley: Institute for the Study of Societal Issues. Retrieved from <a href="https://escholarship.org/uc/item/5z1751rw">https://escholarship.org/uc/item/5z1751rw</a> <a href='https://escholarship.org/content/qt5z1751rw/qt5z1751rw.pdf?t=s05yjb'>[PDF]</a>
-    </p>
-    <p>Figueroa, C.A., Hernandez-Ramos, R., Boone, C.E., Gómez-Pathak, L., Yip, V., Luo, T., <strong>Sierra, V.</strong>, Xu, J., Chakraborty, B., Darrow, S., & Aguilera, A. (2021). A Text Messaging Intervention for Coping With Social Distancing During COVID-19 (StayWell at Home): Protocol for a Randomized Controlled Trial. <i>JMIR Research Protocols</i>, 10(1), e23592. <a href="https://doi.org/10.2196/23592">https://doi.org/10.2196/23592</a> <a href='https://www.researchprotocols.org/2021/1/e23592/PDF'>[PDF]</a>
-    </p>
-    <h3>Book Chapters</h3>
-    <p>Mallon, G. P., Karnoski, R., Stabbe, O., Waller, L., & <strong>Sierra, V.</strong> (2021). Social Work Practice with Trans & Gender Expansive Youth in Child Welfare Systems. In J. Shelton & G. P. Mallon (Eds.), Social Work Practice with Transgender and Gender Expansive Youth (3rd Edition). Routledge. <a href='Mallon_et_al_ 2021_Social_Work_Practice.pdf'>[PDF]</a>
-    </p>
-    <h3>Opinion Editorials</h3>
-    <p>Cesspooch, A., Kewenvoyouma, A., Sanchez, P., & <strong>Sierra, V.</strong> (2020). Native Student Organizations Want to Un-Name Kroeber Hall, are Frustrated with Faculty Pushback. <i>The Daily Californian</i>. <a href="https://www.dailycal.org/2020/08/25/native-student-organizations-want-to-un-name-kroeber-hall-are-frustrated-with-faculty-pushback/">https://www.dailycal.org/2020/08/25/native-student-organizations-want-to-un-name-kroeber-hall-are-frustrated-with-faculty-pushback/</a> <a href='Native_student_organizations_want_to_un_name_Kroeber_Hall.pdf'>[PDF]</a>
-    </p>
-    
-</body>
-</html>
+---
+title: "Writing"
+comments: false
+---
+
+## Journal Articles
+
+Walker, G. D., Keshen, R., **de la Sierra, V. Q.**, Coser, A., and O’Keefe, V. M. (2026). ᏂᎦᏯᎢᏐ ᎦᏚᎩ ᏂᏨᏁᏍᏗ: Co-Creating a Governance Process as Indigenous Self-Determination in Community-Based Mental Health Research. *SSM - Mental Health*, *10*, 100693. <https://doi.org/10.1016/j.ssmmh.2026.100693>
+
+Chan, P., Makram, A., **Sierra, V. Q.**, Alvarez Madrazo, S., Assareh, N., Jayanth, N., & Cwik, M. (2026). Prevalence of Anxiety and Depression Among American Indian and Alaskan Native Adolescents in the United States: A Systematic Review and Meta-Analysis. *American Indian and Alaska Native Health Research, 33*(1), 14–40. <https://doi.org/10.5820/aian.3301.2026.14>
+
+Bear Don’t Walk, O. J., McLester-Davis, L. W., Pete, D., Peter, D., Hernandez-Hernandez, K., Calac, A. J., **de la Sierra, V. Q.**, Dhein, K., Henare, K., & Tsosie, K. S. (2026). Reclaiming Data, Restoring Health: The Indigenous Biomedical Data Science Renaissance. *Annual Review of Biomedical Data Science, 9*. <https://doi.org/10.1146/annurev-biodatasci-092524-121351>
+
+Goklish, N., Haroz, E. E., Dayal, R. R., **Sierra, V. Q.**, Adams, R., Larzelere, F., Rebman, P., & Taylor, J. L. (2026). Combining Machine Learning Models and Screening to Enhance Suicide Risk Identification. *Journal of Medical Internet Research*, *28*, e82669. <https://doi.org/10.2196/82669>
+
+**de la Sierra, V. Q.** (2026). A Guide to Constructing Indigenous Statistical Spaces for Prevention Research. *Prevention Science*. <https://doi.org/10.1007/s11121-026-01911-5>
+
+**Sierra, V. Q.** (2026). Predicting Suicidal Ideation among Native American High Schoolers in California. *Archives of Suicide Research*, 1–18. <https://doi.org/10.1080/13811118.2025.2490154>
+
+Figueroa, C.A., Hernandez-Ramos, R., Boone, C.E., Gómez-Pathak, L., Yip, V., Luo, T., **Sierra, V.**, Xu, J., Chakraborty, B., Darrow, S., & Aguilera, A. (2021). A Text Messaging Intervention for Coping With Social Distancing During COVID-19 (StayWell at Home): Protocol for a Randomized Controlled Trial. *JMIR Research Protocols*, 10(1), e23592. <https://doi.org/10.2196/23592> [[PDF]](https://www.researchprotocols.org/2021/1/e23592/PDF)
+
+## Book Chapters
+
+Mallon, G. P., Karnoski, R., Stabbe, O., Waller, L., & **Sierra, V.** (2021). Social Work Practice with Trans & Gender Expansive Youth in Child Welfare Systems. In J. Shelton & G. P. Mallon (Eds.), Social Work Practice with Transgender and Gender Expansive Youth (3rd Edition). Routledge. [[PDF]](<Mallon_et_al_ 2021_Social_Work_Practice.pdf>)
+
+## Opinion Editorials
+
+**Sierra, V. Q.**, & O’Keefe, V. (2025). *A cultural safety-centric approach*. CLOSLER, Johns Hopkins Medicine. <https://closler.org/connecting-with-patients/a-cultural-safety-centric-approach>
+
+Cesspooch, A., Kewenvoyouma, A., Sanchez, P., & **Sierra, V.** (2020). Native Student Organizations Want to Un-Name Kroeber Hall, are Frustrated with Faculty Pushback. *The Daily Californian*. <https://www.dailycal.org/2020/08/25/native-student-organizations-want-to-un-name-kroeber-hall-are-frustrated-with-faculty-pushback/> [[PDF]](Native_student_organizations_want_to_un_name_Kroeber_Hall.pdf)

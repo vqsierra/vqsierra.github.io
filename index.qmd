@@ -20,19 +20,22 @@ comments: false
 
 ## Biography
 
-Dr. Val is dedicated to promoting the holistic wellbeing of Indigenous young people. Dr. Val was a Point Foundation Scholar from 2013 - 2017 while attending the University of California, Davis. Dr. Val graduated, <i>with highest honors</i>, earning a B.A. in Native American Studies. Dr. Val was involved as a campus organizer helping to coordinate the UC Davis Powwow, Native American Culture Days, and the opening of the Native American Academic Student Success Center. In 2019, Val was awarded The Brandon Harrison Award for Youth Leadership and Youth Advocacy by the Sierra Health Foundation for his community work. 
+Dr. Valentín Quiroz de la Sierra is Yo’eme from the California Yo’eme (Yaqui) Indian community. Dr. Val was a Point Foundation Scholar from 2013 - 2017 while attending the University of California, Davis. He graduated, *with highest honors*, earning a B.A. in Native American Studies. Dr. Val was involved as a campus organizer helping to coordinate the UC Davis Powwow, Native American Culture Days, and the opening of the Native American Academic Student Success Center. In 2019, Dr. Val was awarded The Brandon Harrison Award for Youth Leadership and Youth Advocacy by the Sierra Health Foundation for his community work.
 
-Dr. Val is currently a Postdoctoral Fellow at the Johns Hopkins Center for Indigenous Health. Dr. Val earned a Ph.D. in Social Welfare from the University of California, Berkeley School of Social Welfare, where he also earned a Master of Social Welfare degree. In addition to being honored as a Chancellor’s Fellow, Val has been named a Human Rights Fellow by the Berkeley School of Law and a Computational Social Science Fellow by the Berkeley Institute for Data Science. Val’s clinical and research agendas focus on eliminating mental health disparities, particularly suicide and depression, for urban Indigenous young people through culturally grounded practices and interventions. Val is an Associate Clinical Social Worker and an active member of the California Yoeme (Yaqui) Indian community.
+Dr. Val earned a Ph.D. in Social Welfare from the University of California, Berkeley School of Social Welfare, where he also earned a Master of Social Welfare degree. In addition to being honored as a University of California Chancellor’s Fellow, he was named a Human Rights Fellow by the Berkeley School of Law and a Computational Social Science Fellow by the Berkeley Institute for Data Science (OBSSR 5T32HD101364, PIs: Harding, Ahern, & Bradshaw). Dr. Val previously worked as a Child Therapist at the American Indian Child Resource Center in Oakland, California. Dr. Val’s prior experiences also include working at the California Department of Social Services Office of Tribal Affairs and the Sacramento Native American Health Center.
 
-<p></p>
+Dr. Val joined the Johns Hopkins Center for Indigenous Health in 2024 as a Postdoctoral Fellow. Dr. Val’s clinical and research agendas focus on partnering with Tribal communities to leverage Artificial Intelligence to improve mental health outcomes among Native American young people. Their work centers on two areas: (1) using machine learning methods to identify youth who may be at heightened risk for co-occurring suicide and substance use concerns; and (2) leveraging reinforcement learning approaches to deliver personalized preventive interventions.
 
 ## Selected Projects
 
-[HOPES Study](http://bit.ly/hopesstudy) | **Helping Our People End Suicide Study** - A community-based research project in collaboration with the Sacramento Native American Health Center to develop a culture-based suicide risk assessment tool. 
+[HOPES Study](http://bit.ly/hopesstudy) | **Helping Our People End Suicide Study** - A community-based research project in collaboration with the Sacramento Native American Health Center to develop a culture-based suicide risk assessment tool.
 
-[IWFP](https://osf.io/4dpwt/) | **Indigenous Wholistic Factors Project** - An empirical research study utilizing a computational, algorithmic approach to identify which combination of wholistic factors can predict suicidal ideation among Native American high schoolers in California.
+[IWFP](https://osf.io/4dpwt/) | **Indigenous Wholistic Factors Project** - An empirical research study utilizing the Indigenous Computational Approach to identify which combination of wholistic factors can predict suicidal ideation among Native American high schoolers in California.
 
+[Native-RISE](https://cih.jhu.edu/programs/native-rise/) | **Native-Risk Identification for Suicide and Enhanced Care** - A randomized control trial evaluating artificial intelligence-enhanced suicide risk identification and care navigation strategies in Indian Health Service healthcare settings.
+
+[Cherokee Nation Storybook Project](https://cih.jhu.edu/programs/cherokeestorybook/) | **ᏂᎦᏯᎢᏐ ᎦᏚᎩ ᏂᏨᏁᏍᏗ: Bringing Our Minds and Hearts Together to Promote Our Children’s Mental Health Through Storytelling** - A community-based research project in collaboration with Cherokee Nation Behavioral Health aimed at developing a shared book reading preventive intervention.
+
+[IndigiText Project](https://reporter.nih.gov/search/IYG4gr8tNEqsQCtZ4tRGdA/project-details/11435992) | **IndigiText Project** - An empirical research study aimed at co-developing and evaluating a text message-based pJITAI targeting co-occurring cannabis use and suicide risk among urban Native American youth.
 
 :::
-
-

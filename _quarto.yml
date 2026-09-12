@@ -22,6 +22,8 @@ website:
         href: writing
       - text: "Teaching"
         href: teaching
+      - text: "Action"
+        href: action/index.qmd
   page-footer:
     center: "© Copyright 2026 Valentín Quiroz de la Sierra. Except where otherwise noted, all text and images licensed CC-BY-NC 4.0."
 format:

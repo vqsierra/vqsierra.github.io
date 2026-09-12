@@ -1,0 +1,56 @@
+---
+title: "Action"
+comments: false
+toc: false
+---
+
+Community, collaboration, and research in the field.
+
+```{=html}
+<section class="field-carousel" aria-label="Community and field research photos" aria-roledescription="carousel" tabindex="0">
+  <div class="field-slide" role="group" aria-roledescription="slide" aria-label="1 of 3">
+    <figure>
+      <div class="field-placeholder"><span>01 / COMMUNITY</span><strong>In community</strong><p>Photo coming soon</p></div>
+      <figcaption>A space for a community photo and its story.</figcaption>
+    </figure>
+  </div>
+  <div class="field-slide" role="group" aria-roledescription="slide" aria-label="2 of 3" hidden>
+    <figure>
+      <div class="field-placeholder"><span>02 / COLLABORATION</span><strong>Working together</strong><p>Photo coming soon</p></div>
+      <figcaption>A space for a collaboration photo and its story.</figcaption>
+    </figure>
+  </div>
+  <div class="field-slide" role="group" aria-roledescription="slide" aria-label="3 of 3" hidden>
+    <figure>
+      <div class="field-placeholder"><span>03 / FIELD RESEARCH</span><strong>In the field</strong><p>Photo coming soon</p></div>
+      <figcaption>A space for a field research photo and its story.</figcaption>
+    </figure>
+  </div>
+  <div class="field-controls" hidden>
+    <button type="button" class="field-previous" aria-label="Previous photo">← Previous</button>
+    <span class="field-status" role="status" aria-live="polite" aria-atomic="true">1 / 3</span>
+    <button type="button" class="field-next" aria-label="Next photo">Next →</button>
+  </div>
+</section>
+<script>
+(() => {
+  const carousel = document.querySelector('.field-carousel');
+  const slides = Array.from(carousel.querySelectorAll('.field-slide'));
+  let current = 0;
+  const show = (index) => {
+    current = (index + slides.length) % slides.length;
+    slides.forEach((slide, i) => { slide.hidden = i !== current; });
+    carousel.querySelector('.field-status').textContent = `${current + 1} / ${slides.length}`;
+  };
+  carousel.querySelector('.field-controls').hidden = false;
+  carousel.querySelector('.field-previous').addEventListener('click', () => show(current - 1));
+  carousel.querySelector('.field-next').addEventListener('click', () => show(current + 1));
+  carousel.addEventListener('keydown', (event) => {
+    if (event.key === 'ArrowLeft' || event.key === 'ArrowRight') {
+      event.preventDefault();
+      show(current + (event.key === 'ArrowLeft' ? -1 : 1));
+    }
+  });
+})();
+</script>
+```
