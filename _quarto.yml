@@ -6,13 +6,11 @@ project:
     - vsierra_cv10.23.pdf
 
 website:
-  title: "Valentín Quiroz Sierra"
-  site-url: https://vqsierra.io
-  description: "Yoeme Social Worker & Doctoral Candidate at Berkeley Social Welfare"
+  title: "Valentín Quiroz de la Sierra"
+  site-url: https://delasierra.io
+  description: "Yo'eme Social Worker & Postdoc at John Hopkins Center for Indigenous Health"
   open-graph:
     locale: en_US
-  twitter-card:
-    creator: "@vqsierra_"
   comments:
     utterances:
       repo: vqsierra/vqsierra
@@ -25,7 +23,7 @@ website:
       - text: "Teaching"
         href: teaching
   page-footer:
-    center: "© Copyright 2023 Valentín Quiroz Sierra. Except where otherwise noted, all text and images licensed CC-BY-NC 4.0."
+    center: "© Copyright 2026 Valentín Quiroz de la Sierra. Except where otherwise noted, all text and images licensed CC-BY-NC 4.0."
 format:
   html:
     theme: [sandstone, _variables.scss]
