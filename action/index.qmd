@@ -8,27 +8,57 @@ Community, collaboration, and research in the field.
 
 ```{=html}
 <section class="field-carousel" aria-label="Community and field research photos" aria-roledescription="carousel" tabindex="0">
-  <div class="field-slide" role="group" aria-roledescription="slide" aria-label="1 of 3">
+  <div class="field-slide" role="group" aria-roledescription="slide" aria-label="1 of 8">
     <figure>
-      <div class="field-placeholder"><span>01 / COMMUNITY</span><strong>In community</strong><p>Photo coming soon</p></div>
-      <figcaption>A space for a community photo and its story.</figcaption>
+      <img src="photos/1.jpg" alt="Young people painting a colorful Medicine Wheel mural together." width="1800" height="1350" loading="eager" decoding="async">
+      <figcaption>Youth painting a Medicine Wheel mural at an IndigiText Project–sponsored Gathering of Native Americans event, San Diego, CA, July 2026.</figcaption>
     </figure>
   </div>
-  <div class="field-slide" role="group" aria-roledescription="slide" aria-label="2 of 3" hidden>
+  <div class="field-slide" role="group" aria-roledescription="slide" aria-label="2 of 8">
     <figure>
-      <div class="field-placeholder"><span>02 / COLLABORATION</span><strong>Working together</strong><p>Photo coming soon</p></div>
-      <figcaption>A space for a collaboration photo and its story.</figcaption>
+      <img src="photos/2.jpg" alt="Three instant photographs from the Teaching Effectiveness Award celebration with social work students." width="1800" height="1350" loading="lazy" decoding="async">
+      <figcaption>Celebrating the Teaching Effectiveness Award with SW114: Practice in Social Work students, UC Berkeley, April 2024.</figcaption>
     </figure>
   </div>
-  <div class="field-slide" role="group" aria-roledescription="slide" aria-label="3 of 3" hidden>
+  <div class="field-slide" role="group" aria-roledescription="slide" aria-label="3 of 8">
     <figure>
-      <div class="field-placeholder"><span>03 / FIELD RESEARCH</span><strong>In the field</strong><p>Photo coming soon</p></div>
-      <figcaption>A space for a field research photo and its story.</figcaption>
+      <img src="photos/3.jpg" alt="NativeVision Camp participants and staff gathered on gymnasium bleachers." width="1800" height="1200" loading="lazy" decoding="async">
+      <figcaption>Participants at the NativeVision Camp, Chinle, Navajo Nation, July 2025.</figcaption>
+    </figure>
+  </div>
+  <div class="field-slide" role="group" aria-roledescription="slide" aria-label="4 of 8">
+    <figure>
+      <img src="photos/4.jpg" alt="Community outreach participants beside a Halloween-decorated pickup truck at Trunk or Treat." width="1800" height="1350" loading="lazy" decoding="async">
+      <figcaption>Community outreach at the White Mountain Apache Tribe’s Trunk or Treat event, October 2025.</figcaption>
+    </figure>
+  </div>
+  <div class="field-slide" role="group" aria-roledescription="slide" aria-label="5 of 8">
+    <figure>
+      <img src="photos/5.jpg" alt="Native FEWS Alliance participants gathered outdoors at UC Berkeley." width="1800" height="1028" loading="lazy" decoding="async">
+      <figcaption>Native FEWS Alliance gathering with Selina Martinez (Pascua Yaqui), UC Berkeley, June 2023.</figcaption>
+    </figure>
+  </div>
+  <div class="field-slide" role="group" aria-roledescription="slide" aria-label="6 of 8">
+    <figure>
+      <img src="photos/6.jpg" alt="Young people printing LAND BACK designs on red T-shirts." width="1800" height="1350" loading="lazy" decoding="async">
+      <figcaption>Youth screen-printing T-shirts at an IndigiText Project–sponsored Gathering of Native Americans event, San Diego, CA, July 2026.</figcaption>
+    </figure>
+  </div>
+  <div class="field-slide" role="group" aria-roledescription="slide" aria-label="7 of 8">
+    <figure>
+      <img src="photos/7.jpg" alt="Cherokee Nation Storybook Project advisory board members holding artwork and a copy of Visiting Elisi." width="1800" height="1200" loading="lazy" decoding="async">
+      <figcaption>Cherokee Nation Storybook Project Community Advisory Board celebrating the first printing of <em>Visiting Elisi</em>, Tahlequah, OK, September 2026.</figcaption>
+    </figure>
+  </div>
+  <div class="field-slide" role="group" aria-roledescription="slide" aria-label="8 of 8">
+    <figure>
+      <img src="photos/8.jpg" alt="Data Science Training Institute participants gathered on a terrace overlooking the U.S. Capitol." width="1800" height="1200" loading="lazy" decoding="async">
+      <figcaption>Participants at the AIM-AHEAD and AIHEC Data Science Training Institute, Washington, DC, July 2025.</figcaption>
     </figure>
   </div>
   <div class="field-controls" hidden>
     <button type="button" class="field-previous" aria-label="Previous photo">← Previous</button>
-    <span class="field-status" role="status" aria-live="polite" aria-atomic="true">1 / 3</span>
+    <span class="field-status" role="status" aria-live="polite" aria-atomic="true">1 / 8</span>
     <button type="button" class="field-next" aria-label="Next photo">Next →</button>
   </div>
 </section>
@@ -42,6 +72,7 @@ Community, collaboration, and research in the field.
     slides.forEach((slide, i) => { slide.hidden = i !== current; });
     carousel.querySelector('.field-status').textContent = `${current + 1} / ${slides.length}`;
   };
+  show(0);
   carousel.querySelector('.field-controls').hidden = false;
   carousel.querySelector('.field-previous').addEventListener('click', () => show(current - 1));
   carousel.querySelector('.field-next').addEventListener('click', () => show(current + 1));
