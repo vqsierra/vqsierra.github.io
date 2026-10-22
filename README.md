@@ -17,11 +17,18 @@ The root `CNAME` file is included in Quarto resources so every render preserves
 
 ## Action photos
 
-The three slides in `action/index.qmd` are labeled placeholders. Add images to
-`action/`, replace each `field-placeholder` div with an image such as
-`<img src="community.jpg" alt="Description of the scene">`, and update the
-figcaption with its caption and photo credit. Keep the slide wrappers for the
-carousel controls. Run `quarto render` and commit the source and `docs/` output.
+The Action carousel in `action/index.qmd` displays eight photos from
+`action/photos/`, with captions from `action/photos/descriptions.txt`.
+Web copies are resized to a maximum dimension of 1800 pixels; keep the original
+photos in your source folder. Keep image alt text, captions, slide counts, and
+image dimensions in sync when adding or replacing a photo. Run `quarto render`
+and commit the source and `docs/` output.
+
+## CV
+
+The homepage CV link points to `delaSierra_CV.pdf`, which is included in the
+Quarto resources. Replace this file when updating the CV, then render and commit
+both the source PDF and `docs/delaSierra_CV.pdf`.
 
 ## Additional article PDFs
 

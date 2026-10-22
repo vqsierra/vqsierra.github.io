@@ -13,7 +13,7 @@ about:
     - text: Email
       url: "mailto:vsierra4@jh.edu"
     - text: CV
-      url: "vsierra_cv10.23.pdf"
+      url: "delaSierra_CV.pdf"
 comments: false
 ---
 ::: {.column-page}
