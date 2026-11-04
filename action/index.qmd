@@ -4,7 +4,7 @@ comments: false
 toc: false
 ---
 
-Community, collaboration, and research in the field.
+Photos from the field.
 
 ```{=html}
 <section class="field-carousel" aria-label="Community and field research photos" aria-roledescription="carousel" tabindex="0">
