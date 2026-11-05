@@ -11,9 +11,6 @@ website:
   description: "Yo'eme Social Worker & Postdoc at Johns Hopkins Center for Indigenous Health"
   open-graph:
     locale: en_US
-  comments:
-    utterances:
-      repo: vqsierra/vqsierra
   navbar:
     right:
       - text: "Home"
