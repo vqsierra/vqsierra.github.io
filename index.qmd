@@ -46,7 +46,7 @@ In 2024, he joined the Johns Hopkins Center for Indigenous Health. He also compl
 
 ## Selected Projects
 
-[IndigiText Project](https://csp.publichealth.jhu.edu/blog/indigitext-project/) | **IndigiText Project** | *Principal Investigator* - A community-based participatory research project in collaboration with three Urban Indian Health Organizations in California, aimed at co-developing and evaluating a text message-based personalized just-in-time adaptive intervention (pJITAI) targeting co-occurring cannabis use and suicide risk among urban Native American youth.
+[IndigiText Project](https://csp.publichealth.jhu.edu/blog/indigitext-project/) | **IndigiText Project** | *Principal Investigator* - A community-based participatory research project in collaboration with three Urban Indian Health Organizations in California, aimed at co-developing and evaluating a text message-based personalized just-in-time adaptive intervention (pJITAI) targeting co-occurring cannabis use and suicide risk among urban Native American youth. [See In-Action ↗](in-action/index.qmd)
 
 [HOPES Study](https://delasierra.io/HOPES/) | **Helping Our People End Suicide Study** | *Principal Investigator* - A community-based participatory research project in collaboration with the Sacramento Native American Health Center to develop a culture-based suicide risk assessment tool.
 
