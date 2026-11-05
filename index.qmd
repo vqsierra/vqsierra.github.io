@@ -1,6 +1,8 @@
 ---
 title: "Valentín Quiroz de la Sierra"
 image: vqs.jpeg
+image-alt: "Portrait of Valentín Quiroz de la Sierra, smiling, in a cream cowboy hat and glasses."
+description: "Yo'eme social worker and postdoctoral fellow at the Johns Hopkins Center for Indigenous Health."
 about:
   template: trestles
   links:
@@ -28,7 +30,7 @@ Dr. Val joined the Johns Hopkins Center for Indigenous Health in 2024 as a Postd
 
 ## Selected Projects
 
-[HOPES Study](http://bit.ly/hopesstudy) | **Helping Our People End Suicide Study** - A community-based research project in collaboration with the Sacramento Native American Health Center to develop a culture-based suicide risk assessment tool.
+[HOPES Study](https://delasierra.io/HOPES/) | **Helping Our People End Suicide Study** - A community-based research project in collaboration with the Sacramento Native American Health Center to develop a culture-based suicide risk assessment tool.
 
 [IWFP](https://osf.io/4dpwt/) | **Indigenous Wholistic Factors Project** - An empirical research study utilizing the Indigenous Computational Approach to identify which combination of wholistic factors can predict suicidal ideation among Native American high schoolers in California.
 

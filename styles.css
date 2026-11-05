@@ -7,3 +7,10 @@
 .field-controls button { border: 1px solid #777; border-radius: 4px; background: white; color: #363b3e; padding: .6rem .85rem; }
 .field-controls button:hover { background: #eeebe4; }
 .field-controls button:focus-visible, .field-carousel:focus-visible { outline: 3px solid #54724a; outline-offset: 4px; }
+
+/* The about page's nested Bootstrap grids have fixed minimum tracks that overflow between 992 and 1440 px. */
+@media (min-width: 992px) {
+  .quarto-about-trestles .about-contents,
+  .quarto-about-trestles .about-contents main.content { display: block !important; min-width: 0; }
+  .quarto-about-trestles .about-contents { padding-right: 1.5rem; }
+}
