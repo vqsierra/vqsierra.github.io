@@ -44,14 +44,14 @@ In 2024, he joined the Johns Hopkins Center for Indigenous Health where he compl
 
 ## Selected Projects
 
-[HOPES Study](https://delasierra.io/HOPES/) | **Helping Our People End Suicide Study** - A community-based participatory research project in collaboration with the Sacramento Native American Health Center to develop a culture-based suicide risk assessment tool. *Role: Principal Investigator.*
+[HOPES Study](https://delasierra.io/HOPES/) | **Helping Our People End Suicide Study** | *Principal Investigator* - A community-based participatory research project in collaboration with the Sacramento Native American Health Center to develop a culture-based suicide risk assessment tool.
 
-[IWFP](https://github.com/vqsierra/IWFP) | **Indigenous Wholistic Factors Project** - An empirical research study utilizing the Indigenous Computational Approach, a quantitative Indigenous Research Methodology, to identify which combination of wholistic factors can predict suicidal ideation among Native American high schoolers in California. *Role: Principal Investigator.*
+[IWFP](https://github.com/vqsierra/IWFP) | **Indigenous Wholistic Factors Project** | *Principal Investigator* - An empirical research study utilizing the Indigenous Computational Approach, a quantitative Indigenous Research Methodology, to identify which combination of wholistic factors can predict suicidal ideation among Native American high schoolers in California.
 
-[Native-RISE](https://cih.jhu.edu/programs/native-rise/) | **Native-Risk Identification for Suicide and Enhanced Care** - A randomized controlled trial evaluating artificial intelligence-enhanced suicide risk identification and care navigation strategies in Indian Health Service healthcare settings. *Role: Postdoctoral Fellow.*
+[Native-RISE](https://cih.jhu.edu/programs/native-rise/) | **Native-Risk Identification for Suicide and Enhanced Care** | *Postdoctoral Fellow* - A randomized controlled trial evaluating artificial intelligence-enhanced suicide risk identification and care navigation strategies in Indian Health Service healthcare settings.
 
-[Cherokee Nation Storybook Project](https://cih.jhu.edu/programs/cherokeestorybook/) | **ᏂᎦᏯᎢᏐ ᎦᏚᎩ ᏂᏨᏁᏍᏗ: Bringing Our Minds and Hearts Together to Promote Our Children’s Mental Health Through Storytelling** - A community-based participatory research project in collaboration with Cherokee Nation Behavioral Health aimed at developing a shared book reading preventive intervention. *Role: Postdoctoral Fellow.*
+[Cherokee Nation Storybook Project](https://cih.jhu.edu/programs/cherokeestorybook/) | **ᏂᎦᏯᎢᏐ ᎦᏚᎩ ᏂᏨᏁᏍᏗ: Bringing Our Minds and Hearts Together to Promote Our Children’s Mental Health Through Storytelling** | *Postdoctoral Fellow* - A community-based participatory research project in collaboration with Cherokee Nation Behavioral Health aimed at developing a shared book reading preventive intervention.
 
-[IndigiText Project](https://csp.publichealth.jhu.edu/blog/indigitext-project/) | **IndigiText Project** - An empirical research study aimed at co-developing and evaluating a text message-based personalized just-in-time adaptive intervention (pJITAI) targeting co-occurring cannabis use and suicide risk among urban Native American youth. *Role: Principal Investigator.*
+[IndigiText Project](https://csp.publichealth.jhu.edu/blog/indigitext-project/) | *Principal Investigator* - An empirical research study aimed at co-developing and evaluating a text message-based personalized just-in-time adaptive intervention (pJITAI) targeting co-occurring cannabis use and suicide risk among urban Native American youth.
 
 :::
