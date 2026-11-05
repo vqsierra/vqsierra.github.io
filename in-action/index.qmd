@@ -10,7 +10,7 @@ Photos from the field.
 
 ```{=html}
 <section class="field-carousel" aria-label="Community and field research photos" aria-roledescription="carousel" tabindex="0">
-  <div class="field-slide" role="group" aria-roledescription="slide" aria-label="1 of 8">
+  <div class="field-slide" id="indigitext" role="group" aria-roledescription="slide" aria-label="1 of 8">
     <figure>
       <img src="photos/1.jpg" alt="Young people painting a colorful Medicine Wheel mural together." width="1800" height="1350" loading="eager" decoding="async">
       <figcaption>Youth painting a Medicine Wheel mural at an IndigiText Project–sponsored Gathering of Native Americans event, San Diego, CA, July 2026.</figcaption>
@@ -46,7 +46,7 @@ Photos from the field.
       <figcaption>Native FEWS Alliance gathering with Selina Martinez (Pascua Yaqui), UC Berkeley, June 2023.</figcaption>
     </figure>
   </div>
-  <div class="field-slide" role="group" aria-roledescription="slide" aria-label="7 of 8">
+  <div class="field-slide" id="cherokee-nation-storybook" role="group" aria-roledescription="slide" aria-label="7 of 8">
     <figure>
       <img src="photos/7.jpg" alt="Cherokee Nation Storybook Project advisory board members holding artwork and a copy of Visiting Elisi." width="1800" height="1200" loading="lazy" decoding="async">
       <figcaption>Cherokee Nation Storybook Project Community Advisory Board celebrating the first printing of <em>Visiting Elisi</em>, Tahlequah, OK, September 2026.</figcaption>
@@ -74,7 +74,13 @@ Photos from the field.
     slides.forEach((slide, i) => { slide.hidden = i !== current; });
     carousel.querySelector('.field-status').textContent = `${current + 1} / ${slides.length}`;
   };
+  const showFromHash = () => {
+    const linked = slides.findIndex((slide) => slide.id && `#${slide.id}` === window.location.hash);
+    if (linked >= 0) show(linked);
+  };
   show(0);
+  showFromHash();
+  window.addEventListener('hashchange', showFromHash);
   carousel.querySelector('.field-controls').hidden = false;
   carousel.querySelector('.field-previous').addEventListener('click', () => show(current - 1));
   carousel.querySelector('.field-next').addEventListener('click', () => show(current + 1));
