@@ -5,13 +5,13 @@ comments: false
 
 Publications appear under de la Sierra, V. Q.; Sierra, V. Q.; and Sierra, V.
 
-## Sole-Authored Articles
+## Sole-Authored Journal Articles
 
 **de la Sierra, V. Q.** (2026). A Guide to Constructing Indigenous Statistical Spaces for Prevention Science Research. *Prevention Science, 27*(7), 1239–1252. <https://doi.org/10.1007/s11121-026-01911-5>
 
-**Sierra, V. Q.** (2026). Predicting Suicidal Ideation among Native American High Schoolers in California. *Archives of Suicide Research, 30*(1), 80–97. <https://doi.org/10.1080/13811118.2025.2490154>
+**Sierra, V. Q.** (2026). Predicting Suicidal Ideation Among Native American High Schoolers in California. *Archives of Suicide Research, 30*(1), 80–97. <https://doi.org/10.1080/13811118.2025.2490154>
 
-## Co-Authored Articles
+## Co-Authored Journal Articles
 
 Walker, G. D., Keshen, R., **de la Sierra, V. Q.**, Coser, A., Bearpaw, A., Hansen, W., HorseChief, M., Jones, T., Oosahwee, H., Oosahwee, S., Sorell, T., Stephenson, A., Teuton, C., Wildcat, V., & O’Keefe, V. M. (2026). ᏂᎦᏯᎢᏐ ᎦᏚᎩ ᏂᏨᏁᏍᏗ: Co-Creating a Research Governance Process to Support Indigenous Self-Determination in Community-Based Mental Health Research. *SSM - Mental Health*, *10*, 100693. <https://doi.org/10.1016/j.ssmmh.2026.100693>
 
@@ -21,7 +21,7 @@ Bear Don’t Walk IV, O. J., Yowelunh McLester-Davis, L. W., Pete, D., Peter, D.
 
 Goklish, N., Haroz, E. E., Dayal, R. R., **Sierra, V. Q.**, Adams, R., Sinquah, F. L., Rebman, P., & Taylor, J. L. (2026). Combining Machine Learning Models and Screening to Enhance Suicide Risk Identification for American Indian Patients: Retrospective Cohort Study. *Journal of Medical Internet Research*, *28*, e82669. <https://doi.org/10.2196/82669>
 
-Figueroa, C.A., Hernandez-Ramos, R., Boone, C.E., Gómez-Pathak, L., Yip, V., Luo, T., **Sierra, V.**, Xu, J., Chakraborty, B., Darrow, S., & Aguilera, A. (2021). A Text Messaging Intervention for Coping With Social Distancing During COVID-19 (StayWell at Home): Protocol for a Randomized Controlled Trial. *JMIR Research Protocols*, 10(1), e23592. <https://doi.org/10.2196/23592> [[PDF]](https://www.researchprotocols.org/2021/1/e23592/PDF)
+Figueroa, C. A., Hernandez-Ramos, R., Boone, C. E., Gómez-Pathak, L., Yip, V., Luo, T., **Sierra, V.**, Xu, J., Chakraborty, B., Darrow, S., & Aguilera, A. (2021). A Text Messaging Intervention for Coping With Social Distancing During COVID-19 (StayWell at Home): Protocol for a Randomized Controlled Trial. *JMIR Research Protocols*, 10(1), e23592. <https://doi.org/10.2196/23592> [[PDF]](https://www.researchprotocols.org/2021/1/e23592/PDF)
 
 ## Preprints
 
@@ -30,6 +30,8 @@ Figueroa, C.A., Hernandez-Ramos, R., Boone, C.E., Gómez-Pathak, L., Yip, V., Lu
 Dayal, R. R., Goklish, N. A., Adams, R., Rebman, P., Suttle, R., Garcia, M., Mega, J., **de la Sierra, V. Q.**, & Haroz, E. E. (2026). Considerations for Implementing a Machine Learning Model for Suicide Risk in the Health Systems That Serve American Indian Communities. *medRxiv*. <https://doi.org/10.64898/2026.10.05.26364799>
 
 Merculief, A., Richardson, M., & **de la Sierra, V. Q.** (2026). Indigenous Theories and Frameworks of Human Development: A Scoping Review and Integrative Synthesis. *Preprints.org*. <https://doi.org/10.20944/preprints202603.1383.v1>
+
+**Sierra, V. Q.** (2023). Predicting Suicidal Ideation among Native American High Schoolers in California. UC Berkeley: Institute for the Study of Societal Issues. <https://escholarship.org/uc/item/5z1751rw>
 
 ## Registrations
 
