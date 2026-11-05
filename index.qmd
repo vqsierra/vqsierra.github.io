@@ -31,7 +31,7 @@ Dr. Val joined the Johns Hopkins Center for Indigenous Health in 2024 as a Postd
 
 [HOPES Study](https://delasierra.io/HOPES/) | **Helping Our People End Suicide Study** - A community-based research project in collaboration with the Sacramento Native American Health Center to develop a culture-based suicide risk assessment tool.
 
-[IWFP](https://osf.io/4dpwt/) | **Indigenous Wholistic Factors Project** - An empirical research study utilizing the Indigenous Computational Approach to identify which combination of wholistic factors can predict suicidal ideation among Native American high schoolers in California.
+[IWFP](https://github.com/vqsierra/IWFP) | **Indigenous Wholistic Factors Project** - An empirical research study utilizing the Indigenous Computational Approach to identify which combination of wholistic factors can predict suicidal ideation among Native American high schoolers in California.
 
 [Native-RISE](https://cih.jhu.edu/programs/native-rise/) | **Native-Risk Identification for Suicide and Enhanced Care** - A randomized control trial evaluating artificial intelligence-enhanced suicide risk identification and care navigation strategies in Indian Health Service healthcare settings.
 
