@@ -2,7 +2,6 @@
 title: "Valentín Quiroz de la Sierra"
 image: vqs.jpeg
 image-alt: "Portrait of Valentín Quiroz de la Sierra, smiling, in a cream cowboy hat and glasses."
-description: "Yo'eme social worker and postdoctoral fellow at the Johns Hopkins Center for Indigenous Health."
 about:
   template: trestles
   links:
