@@ -16,7 +16,7 @@ Photos from the field.
   </div>
   <div class="field-slide" role="group" aria-roledescription="slide" aria-label="2 of 8">
     <figure>
-      <img src="photos/2.jpg" alt="Three instant photographs from the Teaching Effectiveness Award celebration with social work students." width="1800" height="1350" loading="lazy" decoding="async">
+      <img src="photos/2.jpg" alt="Three instant photographs from the Teaching Effectiveness Award celebration with social work students." width="1350" height="1800" loading="lazy" decoding="async">
       <figcaption>Celebrating the Teaching Effectiveness Award with SW114: Practice in Social Work students, UC Berkeley, April 2024.</figcaption>
     </figure>
   </div>
@@ -28,7 +28,7 @@ Photos from the field.
   </div>
   <div class="field-slide" role="group" aria-roledescription="slide" aria-label="4 of 8">
     <figure>
-      <img src="photos/4.jpg" alt="Community outreach participants beside a Halloween-decorated pickup truck at Trunk or Treat." width="1800" height="1350" loading="lazy" decoding="async">
+      <img src="photos/4.jpg" alt="Community outreach participants beside a Halloween-decorated pickup truck at Trunk or Treat." width="1350" height="1800" loading="lazy" decoding="async">
       <figcaption>Community outreach at the White Mountain Apache Tribe’s Trunk or Treat event, October 2025.</figcaption>
     </figure>
   </div>
@@ -40,7 +40,7 @@ Photos from the field.
   </div>
   <div class="field-slide" role="group" aria-roledescription="slide" aria-label="6 of 8">
     <figure>
-      <img src="photos/6.jpg" alt="Young people printing LAND BACK designs on red T-shirts." width="1800" height="1350" loading="lazy" decoding="async">
+      <img src="photos/6.jpg" alt="Young people printing LAND BACK designs on red T-shirts." width="1350" height="1800" loading="lazy" decoding="async">
       <figcaption>Youth screen-printing T-shirts at an IndigiText Project–sponsored Gathering of Native Americans event, San Diego, CA, July 2026.</figcaption>
     </figure>
   </div>

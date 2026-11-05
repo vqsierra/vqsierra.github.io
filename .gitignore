@@ -1,3 +1,5 @@
 /.quarto/
-
+/_site/
+/photos/
+.DS_Store
 **/*.quarto_ipynb
