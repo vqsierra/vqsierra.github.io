@@ -5,25 +5,25 @@ image-alt: "Portrait of Valentín Quiroz de la Sierra, smiling, in a cream cowbo
 about:
   template: trestles
   links:
-    - text: TikTok
-      icon: tiktok
-      url: "https://www.tiktok.com/@dr.delasierra"
+    - text: CV
+      url: "delaSierra_CV.pdf"
+    - text: Email
+      url: "mailto:vsierra4@jh.edu"
     - text: GitHub
       icon: github
       url: "https://github.com/vqsierra"
-    - text: Email
-      url: "mailto:vsierra4@jh.edu"
-    - text: CV
-      url: "delaSierra_CV.pdf"
+    - text: TikTok
+      icon: tiktok
+      url: "https://www.tiktok.com/@dr.delasierra"
 comments: false
 ---
 ::: {.column-page}
 
 ## Biography
 
-Dr. Valentín Quiroz de la Sierra is a Yo’eme social worker and data scientist from the California Yo’eme (Yaqui) Indian community. He is currently a Postdoctoral Fellow at the Johns Hopkins Center for Indigenous Health. His clinical and research agendas focus on partnering with Tribal communities to use artificial intelligence to improve mental health outcomes among Native American young people.
+Dr. Valentín Quiroz de la Sierra (“Dr. Val”) is a Yo’eme social worker and data scientist from the California Yo’eme (Yaqui) Indian community. He is currently a Postdoctoral Fellow at the Johns Hopkins Center for Indigenous Health. His clinical and research agendas focus on partnering with Tribal communities to use artificial intelligence to improve mental health outcomes among Native American young people.
 
-He currently holds a NIDA K99 Pathway to Independence Award (1K99DA066943) to support the IndigiText Project, a community-based participatory research project that partners with urban Native American youth to develop a culturally grounded text message intervention that uses reinforcement learning to personalize suicide and cannabis use prevention support.
+He holds a NIDA K99 Pathway to Independence Award (1K99DA066943) to support the IndigiText Project, a community-based participatory research project that partners with urban Native American youth to develop a culturally grounded text message intervention that uses reinforcement learning to personalize suicide and cannabis use prevention support.
 
 ## Research
 
@@ -38,19 +38,19 @@ Dr. Val’s work centers on four areas:
 
 Dr. Val was a Point Foundation Scholar from 2013 to 2017 while attending the University of California, Davis. He graduated, *with highest honors*, earning a B.A. in Native American Studies. As a campus organizer, he helped coordinate the UC Davis Powwow, Native American Culture Days, and the opening of the Native American Academic Student Success Center. In 2019, he received The Brandon Harrison Award for Youth Leadership and Youth Advocacy from the Sierra Health Foundation for his community work.
 
-He earned a Ph.D. in Social Welfare from the University of California, Berkeley School of Social Welfare, where he also earned a Master of Social Welfare degree. In addition to being honored as a University of California Chancellor’s Fellow, he was named a Human Rights Fellow by the Berkeley School of Law and a Computational Social Science Fellow by the Berkeley Institute for Data Science (5T32HD101364, PIs: Harding, Ahern, & Bradshaw). He previously worked as a Child Therapist at the American Indian Child Resource Center in Oakland, California, and at the California Department of Social Services Office of Tribal Affairs and the Sacramento Native American Health Center.
+He earned a Ph.D. in Social Welfare from the University of California, Berkeley School of Social Welfare, where he also earned a Master of Social Welfare degree. In addition to being honored as a University of California Chancellor’s Fellow, he was named a Human Rights Fellow by the Berkeley School of Law and a Computational Social Science Fellow by the Berkeley Institute for Data Science (5T32HD101364). He previously worked as a Child Therapist at the American Indian Child Resource Center in Oakland, California, and at the California Department of Social Services Office of Tribal Affairs and the Sacramento Native American Health Center.
 
-In 2024, he joined the Johns Hopkins Center for Indigenous Health where he completed a fellowship through the Native Children’s Research Exchange (5R25DA061492, PIs: Ivanich & Sarche).
+In 2024, he joined the Johns Hopkins Center for Indigenous Health. He also completed a fellowship through the Native Children’s Research Exchange at the University of Colorado Centers for American Indian and Alaska Native Health (5R25DA061492).
 
 ## Selected Projects
 
-[IndigiText Project](https://csp.publichealth.jhu.edu/blog/indigitext-project/) | **IndigiText Project** | *Principal Investigator* - An empirical research study aimed at co-developing and evaluating a text message-based personalized just-in-time adaptive intervention (pJITAI) targeting co-occurring cannabis use and suicide risk among urban Native American youth.
+[IndigiText Project](https://csp.publichealth.jhu.edu/blog/indigitext-project/) | **IndigiText Project** | *Principal Investigator* - A community-based participatory research project in collaboration with three Urban Indian Health Organizations in California, aimed at co-developing and evaluating a text message-based personalized just-in-time adaptive intervention (pJITAI) targeting co-occurring cannabis use and suicide risk among urban Native American youth.
 
 [HOPES Study](https://delasierra.io/HOPES/) | **Helping Our People End Suicide Study** | *Principal Investigator* - A community-based participatory research project in collaboration with the Sacramento Native American Health Center to develop a culture-based suicide risk assessment tool.
 
 [IWFP](https://github.com/vqsierra/IWFP) | **Indigenous Wholistic Factors Project** | *Principal Investigator* - An empirical research study utilizing the Indigenous Computational Approach, a quantitative Indigenous Research Methodology, to identify which combination of wholistic factors can predict suicidal ideation among Native American high schoolers in California.
 
-[Native-RISE](https://cih.jhu.edu/programs/native-rise/) | **Native-Risk Identification for Suicide and Enhanced Care** | *Postdoctoral Fellow* - A randomized controlled trial evaluating artificial intelligence-enhanced suicide risk identification and care navigation strategies in Indian Health Service healthcare settings.
+[Native-RISE](https://cih.jhu.edu/programs/native-rise/) | **Native-Risk Identification for Suicide and Enhanced Care** | *Postdoctoral Fellow* - A randomized controlled trial evaluating artificial intelligence-enhanced suicide risk identification and care navigation strategies in three Native American-serving health care settings.
 
 [Cherokee Nation Storybook Project](https://cih.jhu.edu/programs/cherokeestorybook/) | **ᏂᎦᏯᎢᏐ ᎦᏚᎩ ᏂᏨᏁᏍᏗ: Bringing Our Minds and Hearts Together to Promote Our Children’s Mental Health Through Storytelling** | *Postdoctoral Fellow* - A community-based participatory research project in collaboration with Cherokee Nation Behavioral Health aimed at developing a shared book reading preventive intervention.
 
