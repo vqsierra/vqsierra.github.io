@@ -14,3 +14,22 @@
   .quarto-about-trestles .about-contents main.content { display: block !important; min-width: 0; }
   .quarto-about-trestles .about-contents { padding-right: 1.5rem; }
 }
+
+/* Keep the profile links in a compact row on small screens so the bio starts sooner. */
+@media (max-width: 991.98px) {
+  div.quarto-about-trestles .about-entity .about-links {
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.5rem;
+    width: 100%;
+    padding-bottom: 0.5em;
+  }
+  div.quarto-about-trestles .about-entity .about-link {
+    width: auto;
+    flex: 0 1 auto;
+    margin: 0;
+    font-size: 0.9em;
+    padding: 0.35em 0.75em;
+  }
+}
