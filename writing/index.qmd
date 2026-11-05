@@ -25,11 +25,11 @@ Figueroa, C.A., Hernandez-Ramos, R., Boone, C.E., Gómez-Pathak, L., Yip, V., Lu
 
 ## Preprints
 
-**de la Sierra, V. Q.**, Dayal, R. R., Rebman, P., Goklish, N., Metwally, H., Yang, P., Mitchell, K., Werwie, T. R., Begay, R., Adams, R., & Haroz, E. E. (2026). Patient Perceptions of Artificial Intelligence in Suicide Risk Assessment Models: Insights from Three Tribal Communities (76mrh_v3). *SocArXiv*. <https://osf.io/preprints/socarxiv/76mrh_v3/>
+**de la Sierra, V. Q.**, Dayal, R. R., Rebman, P., Goklish, N., Metwally, H., Yang, P., Mitchell, K., Werwie, T. R., Begay, R., Adams, R., & Haroz, E. E. (2026). Patient Perceptions of Artificial Intelligence in Suicide Risk Assessment Models: Insights from Three Tribal Communities (76mrh_v3). *SocArXiv*. <https://doi.org/10.31235/osf.io/76mrh_v3>
 
-Dayal, R. R., Goklish, N. A., Adams, R., Rebman, P., Suttle, R., Garcia, M., Mega, J., **de la Sierra, V. Q.**, & Haroz, E. E. (2026). Considerations for implementing a machine learning model for suicide risk in the health systems that serve American Indian communities. *medRxiv*. <https://www.medrxiv.org/content/10.64898/2026.10.05.26364799v1>
+Dayal, R. R., Goklish, N. A., Adams, R., Rebman, P., Suttle, R., Garcia, M., Mega, J., **de la Sierra, V. Q.**, & Haroz, E. E. (2026). Considerations for Implementing a Machine Learning Model for Suicide Risk in the Health Systems That Serve American Indian Communities. *medRxiv*. <https://doi.org/10.64898/2026.10.05.26364799>
 
-Merculief, A., Richardson, M., & **de la Sierra, V. Q.** (2026). Indigenous Theories and Frameworks of Human Development: A Scoping Review and Integrative Synthesis. *Preprints.org*. <https://www.preprints.org/manuscript/202603.1383>
+Merculief, A., Richardson, M., & **de la Sierra, V. Q.** (2026). Indigenous Theories and Frameworks of Human Development: A Scoping Review and Integrative Synthesis. *Preprints.org*. <https://doi.org/10.20944/preprints202603.1383.v1>
 
 ## Book Chapters
 
