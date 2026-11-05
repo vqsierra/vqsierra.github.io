@@ -27,7 +27,9 @@ He holds a NIDA K99 Pathway to Independence Award (1K99DA066943) to support the 
 
 ## Research
 
-Dr. Val’s work centers on four areas:
+Dr. Val helps bring the right support to Native American young people at the right time, using artificial intelligence built from the ground up with the communities it is meant to serve. His work starts from a commitment that Native American communities should decide what artificial intelligence tools are built to do, how their results are interpreted, and how they are used. His Indigenous Computational Approach brings Indigenous Research Methodologies into each stage of the artificial intelligence lifecycle.
+
+This work centers on four areas:
 
 1. **Learning problem formulation:** translating community priorities into domain knowledge that shapes model specifications and reward functions.
 2. **Representation and uncertainty:** building compact participant representations and quantifying uncertainty in behavioral health prediction.
@@ -40,7 +42,7 @@ Dr. Val was a Point Foundation Scholar from 2013 to 2017 while attending the Uni
 
 He earned a Ph.D. in Social Welfare from the University of California, Berkeley School of Social Welfare, where he also earned a Master of Social Welfare degree. In addition to being honored as a University of California Chancellor’s Fellow, he was named a Human Rights Fellow by the Berkeley School of Law and a Computational Social Science Fellow by the Berkeley Institute for Data Science (5T32HD101364). He previously worked as a Child Therapist at the American Indian Child Resource Center in Oakland, California, and at the California Department of Social Services Office of Tribal Affairs and the Sacramento Native American Health Center.
 
-In 2024, he joined the Johns Hopkins Center for Indigenous Health. He also completed a fellowship through the Native Children’s Research Exchange at the University of Colorado Centers for American Indian and Alaska Native Health (5R25DA061492).
+In 2024, he joined the Johns Hopkins Center for Indigenous Health. He also completed a fellowship through the Native Children’s Research Exchange (5R25DA061492) at the University of Colorado Centers for American Indian and Alaska Native Health.
 
 ## Selected Projects
 
@@ -48,7 +50,7 @@ In 2024, he joined the Johns Hopkins Center for Indigenous Health. He also compl
 
 [HOPES Study](https://delasierra.io/HOPES/) | **Helping Our People End Suicide Study** | *Principal Investigator* - A community-based participatory research project in collaboration with the Sacramento Native American Health Center to develop a culture-based suicide risk assessment tool.
 
-[IWFP](https://github.com/vqsierra/IWFP) | **Indigenous Wholistic Factors Project** | *Principal Investigator* - An empirical research study utilizing the Indigenous Computational Approach, a quantitative Indigenous Research Methodology, to identify which combination of wholistic factors can predict suicidal ideation among Native American high schoolers in California.
+[IWFP](https://github.com/vqsierra/IWFP) | **Indigenous Wholistic Factors Project** | *Principal Investigator* - An empirical research study utilizing the Indigenous Computational Approach to identify which combination of wholistic factors can predict suicidal ideation among Native American high schoolers in California.
 
 [Native-RISE](https://cih.jhu.edu/programs/native-rise/) | **Native-Risk Identification for Suicide and Enhanced Care** | *Postdoctoral Fellow* - A randomized controlled trial evaluating artificial intelligence-enhanced suicide risk identification and care navigation strategies in three Native American-serving health care settings.
 
