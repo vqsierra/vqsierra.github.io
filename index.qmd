@@ -29,13 +29,13 @@ Dr. Val joined the Johns Hopkins Center for Indigenous Health in 2024 as a Postd
 
 ## Selected Projects
 
-[HOPES Study](https://delasierra.io/HOPES/) | **Helping Our People End Suicide Study** - A community-based research project in collaboration with the Sacramento Native American Health Center to develop a culture-based suicide risk assessment tool.
+[HOPES Study](https://delasierra.io/HOPES/) | **Helping Our People End Suicide Study** - A community-based participatory research project in collaboration with the Sacramento Native American Health Center to develop a culture-based suicide risk assessment tool.
 
 [IWFP](https://github.com/vqsierra/IWFP) | **Indigenous Wholistic Factors Project** - An empirical research study utilizing the Indigenous Computational Approach to identify which combination of wholistic factors can predict suicidal ideation among Native American high schoolers in California.
 
 [Native-RISE](https://cih.jhu.edu/programs/native-rise/) | **Native-Risk Identification for Suicide and Enhanced Care** - A randomized control trial evaluating artificial intelligence-enhanced suicide risk identification and care navigation strategies in Indian Health Service healthcare settings.
 
-[Cherokee Nation Storybook Project](https://cih.jhu.edu/programs/cherokeestorybook/) | **ᏂᎦᏯᎢᏐ ᎦᏚᎩ ᏂᏨᏁᏍᏗ: Bringing Our Minds and Hearts Together to Promote Our Children’s Mental Health Through Storytelling** - A community-based research project in collaboration with Cherokee Nation Behavioral Health aimed at developing a shared book reading preventive intervention.
+[Cherokee Nation Storybook Project](https://cih.jhu.edu/programs/cherokeestorybook/) | **ᏂᎦᏯᎢᏐ ᎦᏚᎩ ᏂᏨᏁᏍᏗ: Bringing Our Minds and Hearts Together to Promote Our Children’s Mental Health Through Storytelling** - A community-based participatory research project in collaboration with Cherokee Nation Behavioral Health aimed at developing a shared book reading preventive intervention.
 
 [IndigiText Project](https://csp.publichealth.jhu.edu/blog/indigitext-project/) | **IndigiText Project** - An empirical research study aimed at co-developing and evaluating a text message-based pJITAI targeting co-occurring cannabis use and suicide risk among urban Native American youth.
 
