@@ -23,7 +23,7 @@ comments: false
 
 Dr. Valentín Quiroz de la Sierra is a Yo’eme social worker and data scientist from the California Yo’eme (Yaqui) Indian community. He is currently a Postdoctoral Fellow at the Johns Hopkins Center for Indigenous Health. His clinical and research agendas focus on partnering with Tribal communities to use artificial intelligence to improve mental health outcomes among Native American young people.
 
-He currently holds a NIDA K99 Pathway to Independence Award (1K99DA066943) to support the IndigiText Project, a community-based participatory research project that partners with urban Native youth to develop a culturally grounded text message intervention that uses reinforcement learning to personalize suicide and cannabis use prevention support.
+He currently holds a NIDA K99 Pathway to Independence Award (1K99DA066943) to support the IndigiText Project, a community-based participatory research project that partners with urban Native American youth to develop a culturally grounded text message intervention that uses reinforcement learning to personalize suicide and cannabis use prevention support.
 
 ## Research
 
@@ -40,18 +40,18 @@ Dr. Val was a Point Foundation Scholar from 2013 to 2017 while attending the Uni
 
 He earned a Ph.D. in Social Welfare from the University of California, Berkeley School of Social Welfare, where he also earned a Master of Social Welfare degree. In addition to being honored as a University of California Chancellor’s Fellow, he was named a Human Rights Fellow by the Berkeley School of Law and a Computational Social Science Fellow by the Berkeley Institute for Data Science (5T32HD101364, PIs: Harding, Ahern, & Bradshaw). He previously worked as a Child Therapist at the American Indian Child Resource Center in Oakland, California, and at the California Department of Social Services Office of Tribal Affairs and the Sacramento Native American Health Center.
 
-He joined the Johns Hopkins Center for Indigenous Health in 2024 and completed a fellowship through the Native Children’s Research Exchange (5R25DA061492, PIs: Ivanich & Sarche).
+In 2024, he joined the Johns Hopkins Center for Indigenous Health where he completed a fellowship through the Native Children’s Research Exchange (5R25DA061492, PIs: Ivanich & Sarche).
 
 ## Selected Projects
 
-[HOPES Study](https://delasierra.io/HOPES/) | **Helping Our People End Suicide Study** - A community-based participatory research project in collaboration with the Sacramento Native American Health Center to develop a culture-based suicide risk assessment tool.
+[HOPES Study](https://delasierra.io/HOPES/) | **Helping Our People End Suicide Study** - A community-based participatory research project in collaboration with the Sacramento Native American Health Center to develop a culture-based suicide risk assessment tool. *Role: Principal Investigator.*
 
-[IWFP](https://github.com/vqsierra/IWFP) | **Indigenous Wholistic Factors Project** - An empirical research study utilizing the Indigenous Computational Approach, a quantitative Indigenous Research Methodology, to identify which combination of wholistic factors can predict suicidal ideation among Native American high schoolers in California.
+[IWFP](https://github.com/vqsierra/IWFP) | **Indigenous Wholistic Factors Project** - An empirical research study utilizing the Indigenous Computational Approach, a quantitative Indigenous Research Methodology, to identify which combination of wholistic factors can predict suicidal ideation among Native American high schoolers in California. *Role: Principal Investigator.*
 
-[Native-RISE](https://cih.jhu.edu/programs/native-rise/) | **Native-Risk Identification for Suicide and Enhanced Care** - A randomized controlled trial evaluating artificial intelligence-enhanced suicide risk identification and care navigation strategies in Indian Health Service healthcare settings.
+[Native-RISE](https://cih.jhu.edu/programs/native-rise/) | **Native-Risk Identification for Suicide and Enhanced Care** - A randomized controlled trial evaluating artificial intelligence-enhanced suicide risk identification and care navigation strategies in Indian Health Service healthcare settings. *Role: Postdoctoral Fellow.*
 
-[Cherokee Nation Storybook Project](https://cih.jhu.edu/programs/cherokeestorybook/) | **ᏂᎦᏯᎢᏐ ᎦᏚᎩ ᏂᏨᏁᏍᏗ: Bringing Our Minds and Hearts Together to Promote Our Children’s Mental Health Through Storytelling** - A community-based participatory research project in collaboration with Cherokee Nation Behavioral Health aimed at developing a shared book reading preventive intervention.
+[Cherokee Nation Storybook Project](https://cih.jhu.edu/programs/cherokeestorybook/) | **ᏂᎦᏯᎢᏐ ᎦᏚᎩ ᏂᏨᏁᏍᏗ: Bringing Our Minds and Hearts Together to Promote Our Children’s Mental Health Through Storytelling** - A community-based participatory research project in collaboration with Cherokee Nation Behavioral Health aimed at developing a shared book reading preventive intervention. *Role: Postdoctoral Fellow.*
 
-[IndigiText Project](https://csp.publichealth.jhu.edu/blog/indigitext-project/) | **IndigiText Project** - An empirical research study aimed at co-developing and evaluating a text message-based personalized just-in-time adaptive intervention (pJITAI) targeting co-occurring cannabis use and suicide risk among urban Native American youth.
+[IndigiText Project](https://csp.publichealth.jhu.edu/blog/indigitext-project/) | **IndigiText Project** - An empirical research study aimed at co-developing and evaluating a text message-based personalized just-in-time adaptive intervention (pJITAI) targeting co-occurring cannabis use and suicide risk among urban Native American youth. *Role: Principal Investigator.*
 
 :::
