@@ -17,8 +17,8 @@ The root `CNAME` file is included in Quarto resources so every render preserves
 
 ## Action photos
 
-The Action carousel in `action/index.qmd` displays eight photos from
-`action/photos/`, with captions from `action/photos/descriptions.txt`.
+The In-Action carousel in `in-action/index.qmd` displays eight photos from
+`in-action/photos/`, with captions from `in-action/photos/descriptions.txt`.
 Web copies are resized to a maximum dimension of 1800 pixels; keep the original
 photos in your source folder. Originals can hold GPS coordinates, so remove all
 metadata before adding a web copy (`photos/` is git-ignored for this reason). Keep image alt text, captions, slide counts, and
