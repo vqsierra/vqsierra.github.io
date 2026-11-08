@@ -36,3 +36,17 @@ both the source PDF and `docs/delaSierra_CV.pdf`.
 Put PDFs in `writing/` and add a `[PDF](filename.pdf)` link after the matching
 citation in `writing/index.qmd`. DOI links are used for the new articles until
 their PDFs are supplied; the existing PDF links remain in place.
+
+## Links page and QR code
+
+`links/index.html` is the link-in-bio page at `delasierra.io/links/`. It is a
+hand-written HTML file, not a Quarto page, so it has no site menu and loads
+fast on phones; Quarto copies the `links/` folder into `docs/` as a resource.
+Edit the cards and icons in that file directly, then run `quarto render`.
+
+`l.html` makes the short link `delasierra.io/l`, which redirects to the links
+page. The QR code (`links/qr-delasierra-l.svg` and `.png`) points to
+`https://delasierra.io/l`, so it never needs to change when the links do.
+
+Cover and card pictures are web copies in `links/` with camera metadata
+removed; the originals stay in the git-ignored `photos/links/` folder.

@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Valentín Quiroz de la Sierra · Links</title>
+<meta name="description" content="Links for Dr. Valentín Quiroz de la Sierra: website, projects and social media.">
+<link rel="canonical" href="https://delasierra.io/links/">
+<meta property="og:type" content="profile">
+<meta property="og:title" content="Valentín Quiroz de la Sierra · Links">
+<meta property="og:description" content="Website, projects and social media.">
+<meta property="og:url" content="https://delasierra.io/links/">
+<meta property="og:image" content="https://delasierra.io/vqs.jpeg">
+<meta name="twitter:card" content="summary">
+<meta name="theme-color" content="#b3262e">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Mona+Sans:wght@400..700&display=swap" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<style>
+  :root { --text: #343a40; --muted: #6c757d; --accent: #b3262e; --paper: #f8f5f0; --line: #e4ddd2; }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; }
+  body { background: var(--paper); color: var(--text); font-family: "Mona Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif; }
+  .page { max-width: 30rem; margin: 0 auto; padding-bottom: 2rem; }
+  .cover { position: relative; height: clamp(190px, 56vw, 250px); overflow: hidden; background: #ddd5c8; }
+  .cover img { width: 100%; height: 100%; object-fit: cover; display: block; }
+  @media (min-width: 31rem) { .page { padding-top: 1.5rem; } .cover { border-radius: 18px; } }
+  .who { text-align: center; padding: 0 1.25rem; }
+  .portrait { width: 6.5rem; height: 6.5rem; margin-top: -3.25rem; position: relative; border-radius: 50%; object-fit: cover; object-position: 50% 20%; border: 4px solid var(--paper); background: var(--paper); }
+  h1 { font-size: 1.4rem; font-weight: 650; margin: .6rem 0 .3rem; line-height: 1.25; }
+  .tagline { color: var(--muted); margin: 0; line-height: 1.4; font-size: .95rem; }
+  .social { list-style: none; margin: .9rem 0 1.4rem; padding: 0; display: flex; justify-content: center; gap: .35rem; }
+  .social a { display: inline-flex; align-items: center; justify-content: center; width: 2.6rem; height: 2.6rem; border-radius: 50%; color: var(--text); font-size: 1.25rem; text-decoration: none; }
+  .social a:hover { color: var(--accent); background: #fff; }
+  .cards { list-style: none; margin: 0; padding: 0 1.25rem; display: grid; gap: .7rem; }
+  .card { display: flex; align-items: center; gap: .85rem; padding: .6rem .9rem .6rem .6rem; background: #fff; border: 1px solid var(--line); border-radius: 16px; color: var(--text); text-decoration: none; transition: border-color .15s; }
+  .card:hover { border-color: var(--accent); }
+  .thumb { flex: none; width: 3.5rem; height: 3.5rem; border-radius: 12px; object-fit: cover; background: var(--paper); }
+  .thumb.tile { display: flex; align-items: center; justify-content: center; background: var(--accent); color: #fff; font-weight: 700; font-size: .8rem; letter-spacing: .04em; }
+  .thumb.tile .bi { font-size: 1.5rem; }
+  .card-text { flex: 1; min-width: 0; text-align: left; line-height: 1.3; }
+  .card-text strong { display: block; font-weight: 600; }
+  .card-text small { display: block; color: var(--muted); font-size: .84rem; margin-top: .1rem; }
+  .card .bi-chevron-right { color: var(--muted); }
+  a:focus-visible { outline: 3px solid #54724a; outline-offset: 3px; }
+  .visually-hidden { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+  footer { margin-top: 2rem; text-align: center; color: var(--muted); font-size: .8rem; }
+  footer a { color: inherit; }
+
+  /* Dynamic version */
+  .cover .slide { position: absolute; inset: 0; }
+  .cover .slide img { object-position: var(--x) var(--y); transform-origin: var(--x) var(--y); animation: drift 24s ease-in-out infinite alternate; }
+  @keyframes drift { from { transform: scale(1.04) translate(-1.5%, 0); } to { transform: scale(1.14) translate(1.5%, -1%); } }
+  .portrait { box-shadow: 0 0 0 3px var(--accent); transition: box-shadow 1.2s; }
+  .social a:hover, .card:hover .bi-chevron-right { color: var(--accent); }
+  .card { transition: border-color .2s, transform .2s, box-shadow .2s; }
+  .card:hover { transform: translateY(-2px); box-shadow: 0 6px 18px rgba(0,0,0,.08); }
+  .card:active { transform: scale(.98); }
+  .reveal { opacity: 0; transform: translateY(14px); animation: rise .6s cubic-bezier(.2,.7,.2,1) forwards; }
+  @keyframes rise { to { opacity: 1; transform: none; } }
+  @media (prefers-reduced-motion: reduce) {
+    .reveal { opacity: 1; transform: none; animation: none; }
+    .cover .slide img { animation: none; transform: none; }
+    .portrait, .card { transition: none; }
+    .card:hover { transform: none; }
+  }
+</style>
+</head>
+<body>
+<div class="page">
+  <div class="cover">
+    <div class="slide"><img src="cover.jpg" style="--x:55%;--y:30%" alt="A feather fan with beaded handle resting on a red bandana beside a cedar box."></div>
+  </div>
+
+  <header class="who">
+    <img class="portrait reveal" style="animation-delay:.05s" src="../vqs.jpeg" width="104" height="104" alt="Portrait of Valentín Quiroz de la Sierra, smiling, in a cream cowboy hat and glasses.">
+    <h1 class="reveal" style="animation-delay:.12s">Valentín Quiroz de la Sierra</h1>
+    <p class="tagline reveal" style="animation-delay:.18s">Yo’eme social worker and data scientist<br>Johns Hopkins Center for Indigenous Health</p>
+    <ul class="social reveal" style="animation-delay:.24s">
+      <li><a href="mailto:vsierra4@jh.edu"><i class="bi bi-envelope" aria-hidden="true"></i><span class="visually-hidden">Email</span></a></li>
+      <li><a href="https://github.com/vqsierra"><i class="bi bi-github" aria-hidden="true"></i><span class="visually-hidden">GitHub</span></a></li>
+      <li><a href="https://www.threads.com/@dr.delasierra"><i class="bi bi-threads" aria-hidden="true"></i><span class="visually-hidden">Threads</span></a></li>
+      <li><a href="https://www.tiktok.com/@dr.delasierra"><i class="bi bi-tiktok" aria-hidden="true"></i><span class="visually-hidden">TikTok</span></a></li>
+    </ul>
+  </header>
+
+  <ul class="cards">
+    <li class="reveal" style="animation-delay:.32s"><a class="card" href="https://delasierra.io/"><img class="thumb" src="card-website.jpg" alt=""><span class="card-text"><strong>Lios em chania</strong><small>Personal website</small></span><i class="bi bi-chevron-right" aria-hidden="true"></i></a></li>
+    <li class="reveal" style="animation-delay:.40s"><a class="card" href="https://delasierra.io/HOPES/"><span class="thumb tile" aria-hidden="true">HOPES</span><span class="card-text"><strong>HOPES Study</strong><small>Helping Our People End Suicide</small></span><i class="bi bi-chevron-right" aria-hidden="true"></i></a></li>
+    <li class="reveal" style="animation-delay:.48s"><a class="card" href="https://github.com/vqsierra/IWFP"><img class="thumb" src="card-iwfp.jpg" alt=""><span class="card-text"><strong>IWFP</strong><small>Indigenous Wholistic Factors Project</small></span><i class="bi bi-chevron-right" aria-hidden="true"></i></a></li>
+    <li class="reveal" style="animation-delay:.56s"><a class="card" href="https://scholar.google.com/citations?user=ApWAY1IAAAAJ&amp;hl=en"><span class="thumb tile" aria-hidden="true"><i class="bi bi-mortarboard"></i></span><span class="card-text"><strong>Google Scholar</strong><small>Publications and citations</small></span><i class="bi bi-chevron-right" aria-hidden="true"></i></a></li>
+    <li class="reveal" style="animation-delay:.64s"><a class="card" href="https://github.com/MalverdeSoftware"><img class="thumb" src="card-malverde.png" alt=""><span class="card-text"><strong>MalverdeSoftware</strong><small>GitHub</small></span><i class="bi bi-chevron-right" aria-hidden="true"></i></a></li>
+  </ul>
+
+  <footer><a href="https://delasierra.io/">delasierra.io</a></footer>
+</div>
+</body>
+</html>

@@ -4,6 +4,8 @@ project:
   resources:
     - CNAME
     - delaSierra_CV.pdf
+    - links/*
+    - l.html
 
 website:
   title: "Valentín Quiroz de la Sierra"
