@@ -44,9 +44,10 @@ hand-written HTML file, not a Quarto page, so it has no site menu and loads
 fast on phones; Quarto copies the `links/` folder into `docs/` as a resource.
 Edit the cards and icons in that file directly, then run `quarto render`.
 
-`l.html` makes the short link `delasierra.io/l`, which redirects to the links
-page. The QR code (`links/qr-delasierra-l.svg` and `.png`) points to
-`https://delasierra.io/l`, so it never needs to change when the links do.
+The QR code (`links/qr-delasierra-links.svg` for print, `.png` for everything
+else) points to `https://delasierra.io/links/`, so it never needs to change
+when the links do. `l.html` also makes the short link `delasierra.io/l`,
+which redirects to the links page.
 
 Cover and card pictures are web copies in `links/` with camera metadata
 removed; the originals stay in the git-ignored `photos/links/` folder.
