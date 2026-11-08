@@ -38,8 +38,7 @@
   body { background: var(--ring-content-background-color); color: var(--ring-text-color); font-family: var(--ring-font-family); font-size: 14px; line-height: 20px; -webkit-font-smoothing: antialiased; }
   .page { max-width: 30rem; margin: 0 auto; }
   .cover { position: relative; height: clamp(190px, 56vw, 260px); overflow: hidden; background: var(--ring-sidebar-background-color); }
-  .cover img { width: 100%; height: 100%; object-fit: cover; display: block; object-position: var(--x) var(--y); transform-origin: var(--x) var(--y); animation: drift 24s ease-in-out infinite alternate; }
-  @keyframes drift { from { transform: scale(1.04) translate(-1.5%, 0); } to { transform: scale(1.14) translate(1.5%, -1%); } }
+  .cover img { width: 100%; height: 100%; object-fit: cover; display: block; object-position: var(--x) var(--y); }
   main { padding: 0 1rem 1.5rem; }
   .portrait { display: block; width: 5rem; height: 5rem; margin-top: -2.5rem; position: relative; border-radius: 8px; object-fit: cover; object-position: 50% 20%; border: 3px solid var(--ring-content-background-color); background: var(--ring-content-background-color); }
   h1 { margin: .75rem 0 .25rem; font-size: 24px; line-height: 28px; font-weight: 600; }
@@ -70,7 +69,6 @@
   footer a { color: var(--ring-link-color); text-decoration: none; }
   footer a:hover { text-decoration: underline; }
   @media (min-width: 31rem) { .page { padding-top: 1.5rem; } .cover { border-radius: 8px; } }
-  @media (prefers-reduced-motion: reduce) { .cover img { animation: none; transform: none; } }
 </style>
 </head>
 <body>
