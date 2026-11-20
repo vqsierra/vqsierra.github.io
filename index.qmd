@@ -30,9 +30,9 @@ Dr. Val helps bring the right support to Native American young people at the rig
 This work centers on four areas:
 
 1. **Learning problem formulation:** translating community priorities into domain knowledge that shapes model specifications and reward functions.
-2. **Representation and uncertainty:** building compact participant representations and quantifying uncertainty in behavioral health prediction.
-3. **Sequential decision making:** using prior evidence to support efficient policy learning from sparse or noisy participant data.
-4. **Simulation and evaluation:** building simulation environments for behavioral health intervention design and delivery.
+2. **Representation and uncertainty quantification:** developing compact representations of participant characteristics and quantifying predictive uncertainty.
+3. **Sequential decision making:** using prior evidence to improve the efficiency of policy learning when participant data are sparse or noisy.
+4. **Simulation and evaluation:** developing computational environments to study intervention design and delivery.
 
 ## Background
 
